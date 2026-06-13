@@ -1,0 +1,16 @@
+langchain 
+sentence-transformers 
+faiss-cpu 
+openai 
+spacy 
+PyMuPDF 
+pypdf 
+langchain-text-splitters 
+langgraph 
+pyyaml 
+python-dotenv 
+numpy 
+tqdm 
+langchain-community
+transformers
+torch
